@@ -6,7 +6,7 @@ import scala.collection.mutable.TreeSet
  * Auto-generated code below aims at helping you parse
  * the standard input according to the problem statement.
  **/
-object Solution {
+object SolutionHorses {
 
     def main(args: Array[String]) {
 		val n = readInt
