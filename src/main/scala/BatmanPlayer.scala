@@ -2,8 +2,7 @@ import math._
 import scala.util._
 
 /**
- * Auto-generated code below aims at helping you parse
- * the standard input according to the problem statement.
+ * Instructions at http://www.codingame.com/ide/1079522a4bf8cb8a008477a70dc31ba8395f6c3
  **/
 object BatmanPlayer {
 
