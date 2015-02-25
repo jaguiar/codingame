@@ -6,8 +6,7 @@ import scala.collection.mutable.HashSet
 import scala.collection.mutable.Queue
 
 /**
- * Auto-generated code below aims at helping you parse
- * the standard input according to the problem statement.
+ * http://www.codingame.com/ide/107952604253317df996a69310cf87ffbe6bae3
  **/
 object SkyNet2Player {
 
