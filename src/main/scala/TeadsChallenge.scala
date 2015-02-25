@@ -5,6 +5,7 @@ import scala.collection.parallel.mutable.ParHashSet
 import scala.collection.parallel.mutable.ParSet
 import scala.collection.Set;
 /**
+ * Instructions at http://www.codingame.com/ide/107953894f9964cadd2bb36990b90bbc9bbd329
  * Auto-generated code below aims at helping you parse
  * the standard input according to the problem statement.
  */
