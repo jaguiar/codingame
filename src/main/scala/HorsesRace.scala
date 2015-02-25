@@ -3,6 +3,7 @@ import scala.util._
 import scala.collection.mutable.TreeSet
 
 /**
+ * Instructions at http://www.codingame.com/ide/1079534c216ff361befcb70275fffc7af35964a
  * Auto-generated code below aims at helping you parse
  * the standard input according to the problem statement.
  **/
