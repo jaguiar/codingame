@@ -2,6 +2,7 @@ import math._
 import scala.util._
 
 /**
+ * Instructions at http://www.codingame.com/ide/1079529ef1154e59c21f6da6d732d9622e9f0fc
  * The code below will read all the game information for you.
  * On each game turn, information will be available on the standard input, you will be sent:
  * -> the total number of visible enemies
